@@ -5,6 +5,8 @@ Let's see how the orientation of items within a flex container can be controlled
 ### Lesson overview
 
 "este es un intento de modificar y manipular con git algo existente"
+"este ntento de modificar y manipular con git algo existente"
+un error"
 
 This section contains a general overview of topics that you will learn in this lesson.
 
